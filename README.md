@@ -30,4 +30,4 @@ Le but de ce projet était de développer une application interactive à l’aid
 
 ## 📸 Aperçu de l’application
 
-**
+*![Capture d'écran 2025-05-06 101527](https://github.com/user-attachments/assets/074d20a1-2fa5-493c-9130-84c8b68b966d)*
