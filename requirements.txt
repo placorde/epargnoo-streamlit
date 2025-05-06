@@ -1,0 +1,9 @@
+geopandas
+pandas
+matplotlib 
+numpy 
+pygwalker
+requests
+dotenv
+dateutil
+streamlit
